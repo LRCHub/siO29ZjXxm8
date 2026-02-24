@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノーチラスソナー –Nautilus Sonar–",
+  "base_artist": "八神マキノ (CV: 二ノ宮ゆい)",
+  "createdAt": "2026-02-24T23:46:32.096843Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノーチラスソナー -Nautilus Sonar- (GAME VERSION)",
+      "artist": "八神マキノ(CV:二ノ宮ゆい)",
+      "has_synced": false,
+      "path": "select/pl_01_ノーチラスソナー_-Nautilus_Sonar-_(GAME_VERSION)_八神マキノ(CV_二ノ宮ゆい).txt"
+    }
+  ]
+}
